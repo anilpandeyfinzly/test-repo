@@ -1,0 +1,9 @@
+[package]
+name = "poc-jobs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "poc"
+[dependencies]
+poc-redis = { path = "../poc-redis", version = "0.1.0" }
+poc-storage = { path = "../poc-storage", version = "0.1.0" }

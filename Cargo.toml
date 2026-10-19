@@ -1,0 +1,3 @@
+[workspace]
+members = ["poc-config", "poc-redis", "poc-storage", "poc-jobs"]
+resolver = "2"
