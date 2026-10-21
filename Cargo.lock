@@ -4,7 +4,7 @@ version = 4
 
 [[package]]
 name = "poc-config"
-version = "1.1.8-alpha.3"
+version = "1.1.8-alpha.4"
 
 [[package]]
 name = "poc-jobs"
