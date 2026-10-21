@@ -8,5 +8,5 @@ repository.workspace = true
 homepage.workspace = true
 documentation = "https://docs.rs/poc-jobs"
 [dependencies]
-poc-redis = { path = "../poc-redis", version = "0.1.1-alpha.1" }
-poc-storage = { path = "../poc-storage", version = "0.1.1-alpha.1" }
+poc-redis.workspace = true
+poc-storage.workspace = true
