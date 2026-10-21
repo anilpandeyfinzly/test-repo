@@ -1,3 +1,7 @@
 [workspace]
 members = ["poc-config", "poc-redis", "poc-storage", "poc-jobs"]
 resolver = "2"
+
+[workspace.package]
+repository = "https://github.com/anilpandeyfinzly/test-repo"
+homepage = "https://github.com/anilpandeyfinzly/test-repo"
