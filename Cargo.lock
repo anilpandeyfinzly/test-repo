@@ -16,14 +16,14 @@ dependencies = [
 
 [[package]]
 name = "poc-redis"
-version = "0.1.1-alpha.3"
+version = "0.1.1-alpha.4"
 dependencies = [
  "poc-config",
 ]
 
 [[package]]
 name = "poc-storage"
-version = "0.1.1-alpha.3"
+version = "0.1.1-alpha.4"
 dependencies = [
  "poc-config",
 ]
