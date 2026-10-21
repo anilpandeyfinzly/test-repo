@@ -7,7 +7,7 @@ repository = "https://github.com/anilpandeyfinzly/test-repo"
 homepage = "https://github.com/anilpandeyfinzly/test-repo"
 
 [workspace.dependencies]
-poc-config = { path = "poc-config", version = "1.1.8-alpha.2" }
+poc-config = { path = "poc-config", version = "1.1.8-alpha.3" }
 poc-jobs = { path = "poc-jobs", version = "0.1.1-alpha.2" }
-poc-redis = { path = "poc-redis", version = "0.1.1-alpha.2" }
-poc-storage = { path = "poc-storage", version = "0.1.1-alpha.2" }
+poc-redis = { path = "poc-redis", version = "0.1.1-alpha.3" }
+poc-storage = { path = "poc-storage", version = "0.1.1-alpha.3" }
