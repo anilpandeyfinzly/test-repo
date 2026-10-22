@@ -1,5 +1,5 @@
 [workspace]
-members = ["poc-config", "poc-redis", "poc-storage", "poc-jobs"]
+members = ["poc-jobs", "poc-storage", "poc-redis", "poc-config"]
 resolver = "2"
 
 [workspace.package]
